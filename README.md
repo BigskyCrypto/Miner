@@ -1,0 +1,2 @@
+# Miner
+For Mining ideas
